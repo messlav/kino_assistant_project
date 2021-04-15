@@ -1,3 +1,5 @@
 # kino_assistant_project
 
-57Ark changed this file
+Scrapers for scraper's files
+
+CSV for data recieved from scrapers
